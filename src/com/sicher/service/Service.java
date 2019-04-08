@@ -5,5 +5,6 @@ public class Service {
 	private String username;
 	private String password;
 	private String faker;
+	private String Damon;
 }
 
