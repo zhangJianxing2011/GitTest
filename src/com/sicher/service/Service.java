@@ -6,4 +6,5 @@ public class Service {
 	private String hobbit;
 	private String pushTwice;
 	private String fork;
+	private String rookie;
 }
