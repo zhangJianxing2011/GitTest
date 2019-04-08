@@ -7,4 +7,6 @@ public class Service {
 	private String pushTwice;
 	private String fork;
 	private String rookie;
+	private String faker;
 }
+
