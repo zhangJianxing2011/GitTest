@@ -6,5 +6,6 @@ public class Service {
 	private String password;
 	private String phone;
 	private String faker;
+	private String rookie;
 }
 
